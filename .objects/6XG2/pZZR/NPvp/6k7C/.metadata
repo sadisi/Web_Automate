@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Wind",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "6k7CX4IE5kyr5tahx4Kqsw",
+  "Reference": "B3NH1Ss6X0i-exkWJOiouA/6k7CX4IE5kyr5tahx4Kqsw",
+  "ParentRef": "B3NH1Ss6X0i-exkWJOiouA/NPvpirDbakyeTwk8RxLe1w",
+  "Created": "2025-07-31T04:48:12.1268579Z",
+  "Updated": "2025-07-31T04:48:12.1268579Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

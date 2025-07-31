@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Temperature",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "MVxwRO1MMkiWGTg0xlbvew",
+  "Reference": "B3NH1Ss6X0i-exkWJOiouA/MVxwRO1MMkiWGTg0xlbvew",
+  "ParentRef": "B3NH1Ss6X0i-exkWJOiouA/NPvpirDbakyeTwk8RxLe1w",
+  "Created": "2025-07-31T04:43:48.1903288Z",
+  "Updated": "2025-07-31T04:43:48.1903288Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.12.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

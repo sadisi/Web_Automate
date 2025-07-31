@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aOPAWY2eFUe_-pwSmP4OSQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="ba7bae80-b943-4ba1-9c69-0b0d685fa1aa" CvType="AnyWordGroup" DesignTimeRectangle="393, 557, 80, 80" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' /&gt;" Guid="d09e748d-1781-4ce3-802b-b9bf77a6f770" ScopeSelectorArgument="&lt;html app='chrome.exe' title='colombo weather - Google Search' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="ba7bae80-b943-4ba1-9c69-0b0d685fa1aa" CvTextArea="285, 675, 120, 24" CvTextArgument="Temperature" CvType="Text" DesignTimeRectangle="288, 669, 117, 43" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='wob_temp' tag='DIV' type='' class='ksb ksbs' aaname='Temperature' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Temperature' /&gt;" Guid="d177d423-e127-44f3-8a27-8ed89c3e9419" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="113c4ff1770ef84dda6032a37e9f89fd.png" xmlns="">0g2dz8hYQYES34rBpuiA3Xg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
