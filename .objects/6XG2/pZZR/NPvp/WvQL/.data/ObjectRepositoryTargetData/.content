@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="dwrkkPGA9ESjrPwqXEshqQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="pveOcOsgAUGI1xDF4YsX3Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" DesignTimeRectangle="638, 590, 36, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_hm' tag='SPAN' /&gt;" Guid="47390796-4f37-4ede-946b-7ad00b804f05" ScopeSelectorArgument="&lt;html app='chrome.exe' title='colombo weather - Google Search' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="0064120bfbae375b0ccdbfd9032e8e0e.png" xmlns="">03gVFi3ziNEWIvBrLQmEvNQ</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/search" CVScreenId="1dffe0b6-de1a-4809-bcda-04b714c68f1d" CvType="AnyWordGroup" DesignTimeRectangle="401, 394, 36, 20" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_hm' tag='SPAN' /&gt;" Guid="53fbfd0e-ad64-4927-a783-ce4c07520270" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Colombo Tempreature - Google Search' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="1dffe0b6-de1a-4809-bcda-04b714c68f1d" CvTextArea="280, 375, 27, 21" CvTextArgument="°F" CvType="Text" DesignTimeRectangle="283, 372, 25, 27" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-label='°Fahrenheit' tag='SPAN' type='' class='' aaname='°F' matching:aria-label='fuzzy' fuzzylevel:aria-label='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='°F' /&gt;" Guid="230878f8-37e1-4b7a-b73a-6f4015e9b237" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d66456d1247a4df9073e381aeb75e695.png" xmlns="">0Dt4h4r6aHEmWa1GX0PbTuQ</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">GetText</x:String>
   </ObjectRepositoryTargetData.Data>

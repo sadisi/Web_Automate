@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="pMs6cgtcNEi6tCQTW_7BpQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="egjqFWf2EU-PK_-HZivfDg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" CVScreenId="9e6e65d6-3e16-499c-8e4e-e0c8857628ed" CvElementArea="691, 625, 874, 82" CvType="InputBox" DesignTimeRectangle="765, 630, 666, 75" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='APjFqb' tag='TEXTAREA' /&gt;" Guid="8c4e9f82-ea92-46f7-a44b-840e74cbb6df" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com" DesignTimeRectangle="204, 476, 666, 75" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='APjFqb' tag='TEXTAREA' /&gt;" FuzzySelectorArgument="&lt;webctrl id='APjFqb' tag='TEXTAREA' type='' class='gLFyf' aaname='Search' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="735f8117-280d-4998-953c-d50acacba5e5" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
       <TargetAnchorable.Anchors>
         <scg:List x:TypeArguments="ITarget" Capacity="4">
-          <Target CVScreenId="9e6e65d6-3e16-499c-8e4e-e0c8857628ed" CvElementArea="920, 746, 195, 60" CvTextArea="945, 765, 143, 24" CvTextArgument="Google Search" CvType="Button" DesignTimeRectangle="923, 750, 190, 54" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-role='button' type='submit' tag='INPUT' class='gNO89b' aaname='Google Search' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='Google Search' /&gt;" Guid="fce5c0aa-f6ca-4341-945b-6a70d9529a81" SearchSteps="FuzzySelector, CV" />
+          <Target DesignTimeRectangle="362, 596, 190, 54" ElementType="Button" FuzzySelectorArgument="&lt;webctrl aria-role='button' type='submit' tag='INPUT' class='gNO89b' aaname='Google Search' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='Google Search' /&gt;" Guid="8c0ec821-5601-46e5-85d9-a008f9be0a57" SearchSteps="FuzzySelector" />
         </scg:List>
       </TargetAnchorable.Anchors>
-      <imageRef attrName="InformativeScreenshot" originalValue="906ece5289b5b89d7b8b35a65423c792.png" xmlns="">0WoSJL_dLMEKQ48s7q5Jvtw</imageRef>
+      <imageRef attrName="InformativeScreenshot" originalValue="0bb7f7bcc6876a511a8b9a62e064f15c.png" xmlns="">00WZ9M0spIkKBLyw-_8a_UQ</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">TypeInto</x:String>
   </ObjectRepositoryTargetData.Data>
